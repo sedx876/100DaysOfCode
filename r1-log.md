@@ -10,3 +10,9 @@ Started a CoVid19 Tracker app in React
 ### R1D2
 Finished CoVid Tracker App and deployed to firebase. 
 Started React-Auth w/ Okta
+
+### R1D3
+Started Task Manager w/ React+Redux
+
+### R1D4
+Continued Task Manager w/ React+Redux
