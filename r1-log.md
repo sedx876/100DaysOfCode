@@ -16,3 +16,9 @@ Started Task Manager w/ React+Redux
 
 ### R1D4
 Continued Task Manager w/ React+Redux
+
+### R1D5
+Continued Task Manager w/ React+Redux
+
+### R1D6
+Completed Task Manager w/ React+Redux

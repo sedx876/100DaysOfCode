@@ -14,3 +14,9 @@
 
 ### Day 4: September 04, 2020
 **Today's Progress**: Continued Task Manager w/ React+Redux
+
+### Day 5: September 05, 2020
+**Today's Progress**: Continued Task Manager w/ React+Redux
+
+### Day 6: September 06, 2020
+**Today's Progress**: Completed Task Manager w/ React+Redux
